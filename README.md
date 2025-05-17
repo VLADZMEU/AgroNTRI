@@ -32,3 +32,5 @@ rostopic type   Показать тип сообщения для топика
 
 9) ifconfig
    wlan0: -> inet -> IP
+
+   http://docs.voltbro.ru/starting-ros/messaging/rabota-s-topic.html
